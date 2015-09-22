@@ -48,3 +48,15 @@ Waypoint: Use Conditional Logic with If and Else Statements
 Waypoint: Sift through Text with Regular Expressions
 Waypoint: Find Numbers with Regular Expressions
 Waypoint: Find White Space with Regular Expressions
+Waypoint: Invert Regular Expression Matches with JavaScript
+Waypoint: Create a JavaScript Slot Machine
+Waypoint: Add your JavaScript Slot Machine Slots
+Waypoint: Bring your JavaScript Slot Machine to Life (not sure I get how the index comes into play with the visual representation of the slots. I don’t see any array present in the code for this problem.)
+Waypoint: Give your JavaScript Slot Machine some stylish images
+Waypoint: Declare JavaScript Objects as Variables
+Waypoint: Construct JavaScript Objects with Functions
+Waypoint: Make Object Properties Private
+Waypoint: Make Instances of Objects with a Constructor Function
+Waypoint: Iterate over Arrays with map
+
+
