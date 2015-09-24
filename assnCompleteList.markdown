@@ -56,7 +56,18 @@ Waypoint: Give your JavaScript Slot Machine some stylish images
 Waypoint: Declare JavaScript Objects as Variables
 Waypoint: Construct JavaScript Objects with Functions
 Waypoint: Make Object Properties Private
+**[09/22/2015]**
 Waypoint: Make Instances of Objects with a Constructor Function
 Waypoint: Iterate over Arrays with map
+Waypoint: Condense arrays with reduce
+Waypoint: Filter Arrays with filter
+Waypoint: Sort Arrays with sort
+Waypoint: Reverse Arrays with reverse
+Waypoint: Concatenate Strings with concat
+Waypoint: Split Strings with split
+Waypoint: Join Strings with join
 
-
+**[09/23/2015]**
+Bonfire: Meet Bonfire
+Bonfire: Reverse a String
+Bonfire: Factorialize a Number
