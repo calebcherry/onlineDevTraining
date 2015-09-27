@@ -71,3 +71,11 @@ Waypoint: Join Strings with join
 Bonfire: Meet Bonfire
 Bonfire: Reverse a String
 Bonfire: Factorialize a Number
+
+**[09/26/2015]**
+Bonfire: Check for Palindromes
+Bonfire: Find the Longest Word in a String
+Bonfire: Title Case a Sentence
+Bonfire: Return Largest Numbers in Arrays
+Bonfire: Repeat a string repeat a string
+Bonfire: Truncate a string
