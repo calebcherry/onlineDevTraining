@@ -79,3 +79,5 @@ Bonfire: Title Case a Sentence
 Bonfire: Return Largest Numbers in Arrays
 Bonfire: Repeat a string repeat a string
 Bonfire: Truncate a string
+Bonfire: Chunky Monkey
+Bonfire: Slasher Flick
